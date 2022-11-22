@@ -17,13 +17,13 @@ html,body{
     background: #cc0000ff;
 }
 #panel-2{
-    background:orange;
+    background: #6a11e1ff;
 }
 #panel-3{
-    background:yellow;
+    background: #008CE9;
 }
 #panel-4{
-    background:green;
+    background: #33705C;
 }
 button{
     padding:10px;
